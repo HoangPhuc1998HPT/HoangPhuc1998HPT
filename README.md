@@ -26,8 +26,9 @@ I'm from Tiền Giang, Vietnam. I have a background in technical management with
 
 ## 📬 How to Reach Me  
 - GitHub: [@HoangPhuc1998HPT](https://github.com/HoangPhuc1998HPT)  
-- LinkedIn: *[Add your LinkedIn if available]*  
-- Blog: *[Your upcoming blog URL]*  
+- LinkedIn: www.linkedin.com/in/phúc-trần-600736217
+ 
+ 
 
 ## ⚡ Fun Fact  
 I’m passionate about learning new technologies and optimizing processes through data-driven solutions!  
