@@ -13,11 +13,20 @@ I'm from Tiền Giang, Vietnam. I have a background in technical management with
 - Machine Learning and Explainable AI (XAI)  
 - Reading and sharing knowledge through blogging  
 
-## 💼 Experience & Projects  
-- Developing a **Rental Room Management System** using Python and SQL Server  
-- Working with **Graph Neural Networks (GNNs)** and **Explainable AI (XAI)**  
-- Learning **Integrated Gradients and GNNExplainer** for model interpretation  
-- Using **Tkinter and Java Swing** for GUI application development  
+## 💼 Experience & Projects
+- Data Analysis & Machine Learning
+  Practicing Python and R for data analysis.
+  Completing courses like IBM Python for Data Analyst and Kaggle projects.
+  Working on Data Science Challenges, including real-world datasets and predictive modeling.
+- Software Development
+  Developing a Rental Room Management System using Python, Java, and SQL Server.
+  Building a desktop application for managing rental properties with user roles (Admin, Landlord, Tenant).
+  Creating an Android application with Realm Database for real-time data synchronization.
+  Graph Neural Networks (GNNs) & Explainable AI (XAI)
+- Implementing GNNExplainer and Integrated Gradients to interpret node classification models.
+- GUI & Application Development
+
+Designing user-friendly interfaces using Tkinter (Python) and Java Swing.
 
 ## 💡 Looking to Collaborate On  
 - Data analysis projects  
